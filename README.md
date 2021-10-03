@@ -6,7 +6,6 @@
 
 
 
-
 <p>Welcome to my page! </br> I'm Akhil VC, a passionate Frontend developer from  <b>Bengaluru, India </b><img src="https://cdn-icons-png.flaticon.com/512/330/330439.png" width="13"/></p>
 <h3>Some tools I use</h3>
 <p>
