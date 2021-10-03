@@ -5,6 +5,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/akhilvc10/)
 
 <p>Welcome to my page! </br> I'm Akhil VC, a passionate Frontend developer from  <b>Bengaluru, India </b><img src="https://cdn-icons-png.flaticon.com/512/330/330439.png" width="13"/></p>
+
+I currently work at Antstack.io
+
 <h3>Some tools I use</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
