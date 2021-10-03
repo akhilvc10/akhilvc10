@@ -1,10 +1,8 @@
 <h1>Hi there !!!</h1>
-<p>
-<a href="[#](https://twitter.com/akhilvc10)">   <img alt="Twitter" src="https://img.shields.io/badge/-Twitter-279CF0?style=flat-square&logo=twitter&logoColor=white" /></a>
-<a href="[#](https://www.linkedin.com/in/akhilvc10/)">   <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-1971AC?style=flat-square&logo=linkedin&logoColor=white" /></a>
-</p>
 
 
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/akhilvc10)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/akhilvc10/)
 
 <p>Welcome to my page! </br> I'm Akhil VC, a passionate Frontend developer from  <b>Bengaluru, India </b><img src="https://cdn-icons-png.flaticon.com/512/330/330439.png" width="13"/></p>
 <h3>Some tools I use</h3>
