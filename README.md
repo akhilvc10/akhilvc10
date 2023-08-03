@@ -4,9 +4,10 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/akhilvc10)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/akhilvc10/)
 
-<p>Welcome to my page! </br> I'm Akhil VC, a passionate Frontend developer from  <b>Bengaluru, India </b><img src="https://cdn-icons-png.flaticon.com/512/330/330439.png" width="13"/></p>
+<p>Welcome to my github profile ! </br> 
 
-I currently work at Antstack.io
+I'm Akhil VC, a passionate Frontend developer from  <b>Bengaluru, India </b> <img src="https://cdn-icons-png.flaticon.com/512/330/330439.png" width="13"/>  with 4 years of experience across diverse industries such as music, insurtech, edtech, food, and automobiles.
+I currently work at Antstack.io </p>
 
 <h3>Some tools I use</h3>
 <p>
@@ -33,4 +34,9 @@ I currently work at Antstack.io
 <h3>My latest posts</h3>
 <ul>
   <li><a href="https://www.antstack.io/blog/simplify-animation-in-react-native-using-moti/"><b>How to simplify animations in react native with moti</b></a><br/><i>A getting started blog of <a href="[#](https://moti.fyi/)">moti</a> in React Native</i></li>
+</ul>
+
+<h3>My latest webinar</h3>
+<ul>
+  <li><a href="https://www.youtube.com/watch?v=6gj0KGmNJGU"><b>Ideal Frontend Project Setup with Deployment, Code Quality, Testing & Error</li>
 </ul>
